@@ -4,3 +4,5 @@ Tools To Learn.
 - Git - Version Control System
 - Linux Basics
 - Python Programming
+- Bash Scripting
+- Practise
